@@ -1,1 +1,2 @@
 https://www.kaggle.com/datasets/charitarth/maskedfacenet
+https://github.com/cabani/MaskedFace-Net?tab=readme-ov-file
